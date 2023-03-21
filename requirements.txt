@@ -1,2 +1,4 @@
 django==3.2.18
 pillow
+django-bootstrap5
+django-environ
